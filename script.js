@@ -18,6 +18,6 @@ convertButton.addEventListener("click", function() {
     const uppercaseText = text.toUpperCase();
 
     // Display the uppercase text in an alert
-    returntext.innerText="Uppercase Text:\n" + uppercaseText;
+    return.innerText="Uppercase Text:\n" + UppercaseText;
     // alert();
 });
